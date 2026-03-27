@@ -1,0 +1,65 @@
+# Site Bilgileri
+site_name: Kerem Söğüt | Portfolyo & CV
+site_description: Python - C Geliştirici ve Robotik Portfolyosu
+site_author: Kerem
+site_url: https://github.com/keremsogut/portfolyo.git
+
+# Tema Ayarları (Material Teması)
+theme:
+  name: material
+  language: tr  # Arayüzü Türkçe yapar
+  palette:
+    # Gündüz/Gece modu geçişi
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Karanlık moda geç
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Aydınlık moda geç
+  features:
+    - navigation.tabs      # Menüyü üstte tab olarak gösterir
+    - navigation.sections  # Alt menüleri bölümlere ayırır
+    - navigation.top       # "Yukarı çık" butonu ekler
+    - search.suggest       # Arama kutusunda öneri sunar
+    - content.code.copy    # Kod bloklarına kopyalama butonu ekler
+
+# Navigasyon (Sayfa Yapısı)
+nav:
+  - Ana Sayfa: index.md
+  - Hakkımda: hakkimda.md
+  - Deneyim & Projeler:
+      - Genel Bakış: projeler/genel.md
+      - FORTEAURA Girişimi: projeler/forteaura.md
+      - Python Çalışmaları: projeler/yazilim.md
+  - Eğitim & Sertifikalar: belgelerim.md
+  - İletişim: iletisim.md
+
+# Markdown Eklentileri (Daha iyi görünüm için)
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+
+# Sosyal Medya Linkleri (Alt kısımda görünür)
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/keremsogut
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/keremsogut
+    - icon: fontawesome/solid/envelope
+      link: mailto:keremsogut6@gmail.com

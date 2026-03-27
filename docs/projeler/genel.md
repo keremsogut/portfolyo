@@ -1,0 +1,8 @@
+**Agat Robotic** | Agat Robotic / Robo-Çubuk kulubünde yer aldım, İHA Droneları , Otonom Renk algılama mantığı ile çöp ayrıştırma ve toplama işlemi yapan robot geliştirmesi, Otonom Çizgi izleyen robot, Robotik ve Drone uygulamalarında prototip üretimi, hata analizi ve iyileştirme çalışmalarında bulundum. (2022-2024)
+
+**Promec Mühendislik** | Stajyer olarak girdiğim Promec Mühendislik şirketinde, çoğunlukla Elektronik departmanı olmak üzere Elektrik - Elektronik departmanlarında yer aldım. Mikrodenetleyiciler üzerinde program yükleme, program hata analizleri ve testleri yaptım, SOLIDWORKS üzerinde 2D ve 3D model ve ürün tasarımları üzerine çalıştım. Elektronik devre elemanları üzerinde yetkinlik edindim. (2023)
+
+**FRC (First Robotic Competition)** | Agat Robotic / Robo-Çubuk Kulübünde bulunduğum süre boyunca kulubümün katıldığı FRC yarışmalarında saha arkasında İHA Droneları, Otonom Çizgi izleyen robot, Robotik ve Drone uygulamalarında prototip üretimi, hata analizi ve iyileştirme çalışmalarında bulundum. 
+
+**TÜBİTAK 2209-B** | 4 Eksenli Haptik geri bildirimli robot kol projesinde bulundum. 4 Ekseni sayesinde laboratuvar ortamında bir insan elinin elle tutamayacağı ya da yeteri kadar güç uygulayamayacağı cisimleri robot kolu uzaktan kontrol eden eldivenin üzerinde; haptik geri bildirim sensörü, ısı ve sicaklık sensörü, basınç sensörlerinin sayısal değerlerini okuyabileceğimiz bir dijital ekran var. Bu sayede laboratuvar ortamında uzaktan kontrol edilebilen ve elimizle tutamayacağımız cisimleri uzaktan kontrol edebilen, sensörleri sayesinde kontrol eldiveni üzerinden bu değerleri görebiliyoruz.
+
